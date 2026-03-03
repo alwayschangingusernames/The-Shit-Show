@@ -1,0 +1,22 @@
+html {
+  font-family: "Lexend", sans-serif;
+  display: flex;
+  flex-direction: column; 
+  min-height: 100vh;
+  justify-self: center;
+  text-align: center;
+  color: #FFF;
+  background-color: #121212;
+}
+
+a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+footer {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  position: absolute;
+  bottom: 25px;
+  justify-self: center;}
